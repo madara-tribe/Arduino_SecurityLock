@@ -12,16 +12,17 @@ If key number is macth with prediction, the key will open. it can be used for se
 # Preparation<hr>
 
 <b>
->・Arduino Uno
+>
+・Arduino Uno
  
->・Servomotor
+・Servomotor
 
 ・Switch
 
 ・Adapter
 
 ・DC Jack DIP Kit</b>
-
+>
 
 ## Arduino circuit
 
