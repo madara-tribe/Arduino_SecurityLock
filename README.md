@@ -20,6 +20,9 @@ If key number is macth with prediction, the key will open. it can be used for se
 
 ## arduino circuit
 
+![Arduino_diagram](https://user-images.githubusercontent.com/48679574/83414058-ce642100-a457-11ea-9ce0-b172a8db2035.jpg)
+
+
 
 # How to use<hr>
 
@@ -36,7 +39,13 @@ If key number is macth with prediction, the key will open. it can be used for se
 
 ## from create dateset to prediction
 
+![train_cycle](https://user-images.githubusercontent.com/48679574/83414073-d6bc5c00-a457-11ea-8b9d-bef101042a5b.jpg)
+
+
+
 ## Main security system 
+![opensystem](https://user-images.githubusercontent.com/48679574/83414084-dcb23d00-a457-11ea-80cc-77e76a4f2bfd.jpg)
+
 
 It's logic and making process are written below my blog.
 
