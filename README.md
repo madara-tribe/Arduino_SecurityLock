@@ -1,8 +1,12 @@
 # Arduino with CNN for security lock（Arduino SecurityLock）
 
 I set up Arduino circuit with CNN for security lock. 
+
 After trained CNN, predict web camera streaming images with Arduino.
+
 If key number is macth with prediction, the key will open. it can be used for security lock.
+ 
+ 
  
  
 # Preparation<hr>
