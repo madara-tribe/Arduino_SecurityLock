@@ -11,9 +11,7 @@ If key number is macth with prediction, the key will open. it can be used for se
  
 # Preparation<hr>
 
-<b>
->
-・Arduino Uno
+<blockquote><b>・Arduino Uno
  
 ・Servomotor
 
@@ -21,8 +19,8 @@ If key number is macth with prediction, the key will open. it can be used for se
 
 ・Adapter
 
-・DC Jack DIP Kit</b>
->
+・DC Jack DIP Kit</b></blockquote>
+
 
 ## Arduino circuit
 
