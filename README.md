@@ -8,10 +8,15 @@ If key number is macth with prediction, the key will open. it can be used for se
 # preparation
 
 <b>・Arduino Uno
+ 
 ・Servomotor
+
 ・switch
+
 ・adapter
+
 ・DC Jack DIP Kit</b>
+
 
 ## arduino circuit
 
