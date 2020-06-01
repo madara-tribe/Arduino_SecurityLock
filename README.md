@@ -5,20 +5,20 @@ After trained CNN, predict web camera streaming images with Arduino.
 If key number is macth with prediction, the key will open. it can be used for security lock.
  
  
-# preparation<hr>
+# Preparation<hr>
 
 <b>・Arduino Uno
  
 ・Servomotor
 
-・switch
+・Switch
 
-・adapter
+・Adapter
 
 ・DC Jack DIP Kit</b>
 
 
-## arduino circuit
+## Arduino circuit
 
 ![Arduino_diagram](https://user-images.githubusercontent.com/48679574/83414058-ce642100-a457-11ea-9ce0-b172a8db2035.jpg)
 
@@ -29,20 +29,20 @@ If key number is macth with prediction, the key will open. it can be used for se
 
 # How to use<hr>
 
-1.gather dateset from web camera
+1.Gather dateset from web camera
 
-2.train by CNN
+2.Train by CNN
 
-3.write key number to key.txt
+3.Write key number to key.txt
 
-4.predict web camera streaming images.  If its prediction match with key.txt number, the key can be opened.
+4.Predict web camera streaming images.  If its prediction match with key.txt number, the key can be opened.
 
 
 
 
 # Its stracture<hr>
 
-## from create dateset to prediction
+## From create dateset to prediction
 
 ![train_cycle](https://user-images.githubusercontent.com/48679574/83414073-d6bc5c00-a457-11ea-8b9d-bef101042a5b.jpg)
 
