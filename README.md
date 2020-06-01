@@ -11,8 +11,7 @@ If key number is macth with prediction, the key will open. it can be used for se
  
 # Preparation<hr>
 
-<blockquote><b>
-・Arduino Uno
+<blockquote><b>・Arduino Uno
  
 ・Servomotor
 
