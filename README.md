@@ -9,7 +9,7 @@ If key number is macth with prediction, the key will open. it can be used for se
  
  
  
-# Preparation<hr>
+# Preparation
 
 - Arduino Uno
 - Servomotor
@@ -27,20 +27,20 @@ If key number is macth with prediction, the key will open. it can be used for se
 
 
 
-# How to use<hr>
+# How to use
 
-1.Gather dateset from web camera
+1. Gather dateset from web camera
 
-2.Train by CNN
+2. Train by CNN
 
-3.Write key number to key.txt
+3. Write key number to key.txt
 
-4.Predict web camera streaming images.  If its prediction match with key.txt number, the key can be opened.
-
-
+4. Predict web camera streaming images.  If its prediction match with key.txt number, the key can be opened.
 
 
-# Its stracture<hr>
+
+
+# Its stracture
 
 ## From create dateset to prediction
 
@@ -54,6 +54,5 @@ If key number is macth with prediction, the key will open. it can be used for se
 ![opensystem](https://user-images.githubusercontent.com/48679574/83414084-dcb23d00-a457-11ea-80cc-77e76a4f2bfd.jpg)
 
 
-It's logic and making process are written below my blog.
+It's logic and making process are written below [my blog](https://trafalbad.hatenadiary.jp/entry/2020/06/01/113828)
 
-https://trafalbad.hatenadiary.jp/entry/2020/06/01/113828
